@@ -1,0 +1,1 @@
+# EmbeddedAI_SNN_vision_pipeline
